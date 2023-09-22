@@ -14,6 +14,6 @@ Just run the python code with:
 python3 main.py
 ```
 
-![Screenshot](https://github.com/matteozamu/FreacciaPy/blob/main/example.png)
+![Screenshot](https://raw.githubusercontent.com/matteozamu/FrecciaPy/main/example.png)
 
 I was inspired by [TerminalGV](https://github.com/TheStaticTurtle/TerminalGV) which works on TGV and TER trains in France.
